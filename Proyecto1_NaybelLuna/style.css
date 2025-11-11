@@ -1,0 +1,155 @@
+body{
+    background-color: #FFFFFF;
+} 
+.lista1{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+   
+}
+.video{
+  width: 100%;
+    height: 100%;
+    object-fit: contain;
+ 
+}
+.news{
+    text-align: center;
+}
+.holiday{
+    text-align: center;
+  
+}
+.generos{
+    list-style-type: none;
+    display: flex;
+}
+.p1{
+    text-align: center;
+    width: 50%;
+    height: auto;
+    margin: 0% auto;
+    font-family:  'Helvetica Neue';
+    font-size: medium;
+}
+.generos2{
+    list-style-type: none;
+    display: flex;
+
+}
+.img{
+    list-style-type: none;
+     width: 300px;
+     height: auto;
+   
+}
+    
+.listagene1{
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+}
+.img1{
+    width: 300px;
+    list-style-type: none;
+    display: flex;
+
+}
+.listagene2{
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+}
+.img2{
+    width: 300px;
+    list-style-type: none;
+    display: flex;
+   
+
+   
+}
+.chocolate{
+    text-align: center;
+}
+.p2{
+    text-align: center;
+   font-family: 'Helvetica Neue';
+   font-size: medium;
+   height: auto;
+}
+.listagene3{
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+}
+.video1{
+    width: 500px;
+    justify-content: center;
+    display: flex;
+    margin: 0% auto;
+   
+}
+.galleria{
+    text-align: center;
+   font-family: Roboto;
+}
+.p3{
+    width: 50%;
+    margin: 0% auto;
+    height: auto;
+    text-align: center;
+    font-family: 'Helvetica Neue';
+     font-size: medium;
+}
+.discover{
+    text-align: center;
+}
+.fondo2{
+    background-color: #111111;
+}
+.pradanews{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    margin: 0% auto;
+}
+.awinter {
+    text-align: center;
+    color: #FFFFFF;
+}
+.prada summer{
+    text-align: center;
+    color: #FFFFFF;
+}
+.paradig{
+    text-align: center;
+    color: #FFFFFF;
+}
+.prada women{
+    text-align: center;
+    color: #FFFFFF;
+}
+.renylon{
+    text-align: center;
+    color: #FFFFFF;
+}
+.caffe{
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
